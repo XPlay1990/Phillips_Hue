@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/Hue.jar"/>
+	<classpathentry kind="lib" path="dist/lib/huelocalsdk.jar"/>
+	<classpathentry kind="lib" path="dist/lib/huesdkresources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/tablelayout.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
